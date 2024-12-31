@@ -1,6 +1,6 @@
 # Next-Auth V5 Tutorial
 
-This is the code for my Next-auth 5.0 tutorial on YouTube: https://www.youtube.com/watch?v=bMYZSi_LZ2w
+This is the code for Next-auth 5.0 tutorial on YouTube: https://www.youtube.com/watch?v=bMYZSi_LZ2w
 
 - Next-auth 5.0 setup with Prisma Neon adapter & Vercel Postgres
 - OAuth (Google, GitHub)
